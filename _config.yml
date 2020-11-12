@@ -112,11 +112,11 @@ author:
   bio              : I am a student of computer engineering,I am getting my bachelor in the university of science and technology.I love programming a I know a little about python,I love playing soccer too...
   location         : "تهران"
   email            : sinaalinejad4@gmail.com
-  twitter: sauleh_e
-  linkedin: sauleh
+  #twitter: 
+  #linkedin: 
   google_scholar: Q25s5KkAAAAJ
   github: sinaalinejad
-  instagram: saulehe
+  #instagram: saulehe
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
