@@ -3,21 +3,20 @@ layout: posts
 title: My new picture
 ---
 
-## This is my team at Microsoft
-People in the picture are:
-- Arul
-- Fai
-- Scott
-- Me
+## welcome to heaven
+
+- 
+- 
+- 
+- 
 
 [my favorite website](http://www.google.com)
 
-kajsdlfk jsaldfkj saldkjflaskdjflaskjdlfkasjdlfkjasdl fjsad fkajsldkfjlaskdj flakjds fksad flaksj dlfkjads l
-kfajdskfajsdf sakd fjksad jfksdj fksdj f
+I want to be in this picture
 
 
 
-![alt text](../assets/images/grouppic.jpg "Team Picture")
+![alt text](../assets/images/heaven.jpg "a beautiful scene")
 
 ---
 **Test**: This is atest
