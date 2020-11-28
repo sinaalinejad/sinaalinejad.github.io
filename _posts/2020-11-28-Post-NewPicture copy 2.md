@@ -7,4 +7,4 @@ title: managing time
 </div>
 ---
 
-![can not be loaded](../assets/images/time_tips.jpg "")
+![can not be loaded](../assets/images/time_tips.jpg " ")
