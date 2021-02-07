@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: My Hackathon Project
+title: sonicpi
 ---
 
 ## my image
