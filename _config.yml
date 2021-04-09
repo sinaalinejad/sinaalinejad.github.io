@@ -115,7 +115,7 @@ author:
   #twitter: 
   linkedin: 
   google_scholar: Q25s5KkAAAAJ
-  github: sinaalinejad
+  # github: sinaalinejad
   #instagram: saulehe
   links:
     - label: "Email"
@@ -132,13 +132,16 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "Calendly"
       icon: "fas fa-calendar-alt"
       url: "http://calendly.com/sina_alinejad"
+      - label: "Linkedin"
+      icon: "fas fa-calendar-alt"
+      url: "https://www.linkedin.com/in/sina-alinejad-3697a9200/"
 
 # Site Footer
 footer:
