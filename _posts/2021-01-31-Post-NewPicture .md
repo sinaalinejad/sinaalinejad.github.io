@@ -10,7 +10,7 @@ title: My Hackathon Project
  
  
 
-[link to my app](http://sinaalinejad.pythonanywhere.com/blog/home/)
+[link to my app](http://a99521469.pythonanywhere.com/blog/home/)
 
 سلام
 
