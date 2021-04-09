@@ -139,9 +139,6 @@ author:
     - label: "Calendly"
       icon: "fas fa-calendar-alt"
       url: "http://calendly.com/sina_alinejad"
-    - label: "Linkedin"
-      icon: "fas fa-calendar-alt"
-      url: "https://www.linkedin.com/in/sina-alinejad-3697a9200/"
 
 # Site Footer
 footer:
