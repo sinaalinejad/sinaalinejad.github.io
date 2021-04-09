@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Sina Alinejad"
   avatar           : "/assets/images/profile.jpg"
-  bio              : I am a student of computer engineering,I am getting my bachelor in the university of science and technology.I love programming a I know a little about python,I love playing soccer too...
+  bio              : I am a student of computer engineering,I am getting my bachelor in the university of science and technology.I love programming and I know a little about python and C++ and .NET Framework ,I love playing soccer too...
   location         : "رشت"
   email            : sinaalinejad4@gmail.com
   #twitter: 
@@ -132,7 +132,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
