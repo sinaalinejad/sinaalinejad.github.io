@@ -1,11 +1,12 @@
 ---
 layout: page
-title: project 7
-description: with background image
-img: assets/img/4.jpg
-importance: 1
-category: work
-related_publications: true
+title: Medical Advisor
+description: Part of Natural Language Processing Course. It utilizes RAG architecture.
+img: 
+redirect: https://github.com/sinaalinejad/NLP_4022/tree/main/Final_Project
+github: https://github.com/sinaalinejad/NLP_4022/tree/main/Final_Project
+importance: 3
+category: University
 ---
 
 Every project has a beautiful feature showcase page.

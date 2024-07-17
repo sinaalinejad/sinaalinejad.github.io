@@ -1,10 +1,12 @@
 ---
 layout: page
-title: project 9
-description: another project with an image 🎉
-img: assets/img/6.jpg
-importance: 4
-category: fun
+title: Identify Same Shapes
+description: Part of Computer Vision Course. It uses some features like solidity and compactness to identify geometric shapes.
+img: 
+redirect: https://github.com/sinaalinejad/Computer_Vision/tree/main/HW5
+github: https://github.com/sinaalinejad/Computer_Vision/tree/main/HW5
+importance: 3
+category: University
 ---
 
 Every project has a beautiful feature showcase page.

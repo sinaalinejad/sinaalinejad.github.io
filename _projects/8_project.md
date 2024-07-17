@@ -1,11 +1,12 @@
 ---
 layout: page
-title: project 8
-description: an other project with a background image and giscus comments
-img: assets/img/9.jpg
-importance: 2
-category: work
-giscus_comments: true
+title: Saffron
+description: Saffron Edge Detection. Part of Computer Vision Course.
+img: 
+redirect: https://github.com/sinaalinejad/Computer_Vision/tree/main/HW2
+github: https://github.com/sinaalinejad/Computer_Vision/tree/main/HW2
+importance: 3
+category: University
 ---
 
 Every project has a beautiful feature showcase page.

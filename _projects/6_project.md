@@ -1,10 +1,12 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
-category: fun
+title: Solar Panel
+description: Part of Computer Vision Course. It detects Solar Panels using a U-Net architecture.
+img: 
+redirect: https://github.com/sinaalinejad/Computer_Vision/tree/main/HW6
+github: https://github.com/sinaalinejad/Computer_Vision/tree/main/HW6
+importance: 3
+category: University
 ---
 
 Every project has a beautiful feature showcase page.

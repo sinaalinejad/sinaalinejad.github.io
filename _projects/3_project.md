@@ -1,11 +1,12 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: NQueens
+description: Part of Artificial Intelligence Course. It solved NQueens problem using Hill-Climbing Algorithm.
+img: 
+redirect: https://github.com/sinaalinejad/AI_excersizes/tree/main/HW4
+github: https://github.com/sinaalinejad/AI_excersizes/tree/main/HW4
 importance: 3
-category: work
+category: University
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,10 +1,12 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: Projma
+description: Part of Software Engineering Course. It was done using Scrum Methodology.
+img: 
+redirect: https://github.com/Projma
+github: https://github.com/Projma
 importance: 3
-category: fun
+category: University
 ---
 
 Every project has a beautiful feature showcase page.

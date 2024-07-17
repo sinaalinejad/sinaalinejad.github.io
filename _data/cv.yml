@@ -2,96 +2,125 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Sina Alinejad
     - name: Date of Birth
-      value: 14th March 1879
+      value: 20th July 2002
     - name: Languages
-      value: English, German
+      value: English, Persian
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: B.Sc
+      institution: Iran University of Science and Technology, Tehran, Iran
+      year: 2020 - 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: GPA
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+            - "Last 2 years: 3.87/4 (19.19/20 Iranian scale)"
+            - "Overall: 3.76/4 (18.63/20 Iranian scale)"
+        - Ranked 4th among Iran universities based on QS Ranking
+    - title: Diploma
+      institution: National Organization for Development of Exceptional Talents (Sampad), Rasht, Iran
+      year: 2017 - 2020
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Assistant
+      institution: Natural Languages Processing Lab, Iran University of Science and Technology, Tehran
+      year: 2023 - 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Working on sentence-transformers for semantic textual similarity
+        -  Participating in SemEval2024 (SemEval-2024, BRAINTEASER, 11% improvement compared to the baseline)
+
+    - title: Teaching Assistant
+      institution: Iran University of Science and Technology, Tehran
+      year: 2021 - 2024
       description:
-        - Description 1.
-        - Description 2.
+        - "Software Engineering"
+        - "Artificial Intelligence"
+        - "Theory of Languages and Automata"
+        - "Operating Systems"
+        - "Digital Logic Circuits"
+        - "Discrete Mathematics"
+        - "Data Structures"
+        - "Competitive Programming"
+        - "Fundamentals of Database Design"
+        - "Advanced Programming"
+        - "Fundamentals of Computer Programming"
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
 
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://github.com/Projma">Projma</a>
+      year: 2024
+      description: "Software Engineering Course Project. This project was done using Scrum Methodology."
+
+    - title: <a href="https://github.com/sinaalinejad/Computer_Vision/tree/main/HW6">Solar Panel Detection with U-Net</a>
+      year: 2024
+      description: "The project is for Computer Vision Course. It utilizes U-Net to detect Solar Panels in Satellite photos"
+
+    - title: <a href="https://github.com/sinaalinejad/AI_excersizes/tree/main/HW5/multiagent">Pacman</a>
+      year: 2023
+      description: "This is related to my Artificial Intelligence Course"
+
+    - title: <a href="https://github.com/sinaalinejad/Computer_Vision/tree/main/HW3">CamScanner</a>
+      year: 2022
+      description: "In this project, which is related to Computer Vision Course, I used perspective transformation to make a program functioning like the CamScanner"
+
+    - title: <a href="https://github.com/sinaalinejad/AI_excersizes/tree/main/HW4">NQueens</a>
+      year: 2022
+      description: "The project is for my Artificial Intelligence Course and solves the NQueens problem using Hill-Climbing algorithm"
+
+    - title: <a href="https://github.com/sinaalinejad/NLP_4022/tree/main/Final_Project">Medical Advisor using Retrieval Augmented Generation (RAG)</a>
+      year: 2022 - 2023
+      description: "Utilizing RAG architecture to make a medical advisor. The project is part of NLP Course"
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+    - year: 2020
+      description: 
+        - "Ranked within the Top 0.5% in Iranian University Entrance Exam (Konkur)"
+        - Ranked 659 among 155000 students
+
+    - year: 2020 - 2024
+      description: 
+        - "Ranked among the top 8% GPA in my class"
+        - Class of about 100 students
+
+    # - year: 2024
+    #   description: 
+    #     - Permitted to apply for M.Sc. program at the Department of Computer Engineering without taking the ”National Entrance Exam for Graduate Schools” as an award for exceptional talented students
+
+- title: Skills
+  type: nested_list
+  contents:
+    - title: "Programing Languages: Python, C#, CPP, C"
+    - title: "Libraries and Frameworks: Numpy, Pandas, Pytorch, Tensorflow, Transformers, OpenCV, Django, ReactJS"
+    - title: "Databases: SQL Server, MySQL, PostgreSQL"
+    - title: "Tools and Technologies: Git, Microsoft Azure"
+
+- title: Publication
+  type: time_table
+  contents:
+    - year: 2024
+    - description: "Sina Alinejad at SemEval-2024 Task 7: Numeral prediction using GPT3.5"
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - title: Machine Learning
+    - title: NLP
+    - title: Computer Vision / Image Processing
+    - title: Deep Learning
+    - title: Reinforcement Learning
+    - title: Data Mining
+    - title: AI in Healthcare
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Soccer, Music

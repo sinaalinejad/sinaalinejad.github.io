@@ -1,10 +1,12 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
+title: MLP
+description: Part of Computational Intelligence Course. Implemeting MLP from Scratch.
+img: 
+redirect: https://github.com/sinaalinejad/Computational-Intelligence/tree/main/Assignments/HW3
+github: https://github.com/sinaalinejad/Computational-Intelligence/tree/main/Assignments/HW3
 importance: 3
-category: fun
+category: University
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,11 +1,13 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: CamScanner
+description: This project is related to Computer Vision Course
+# img: assets/img/12.jpg
+redirect: https://github.com/sinaalinejad/Computer_Vision/tree/main/HW3
+github: https://github.com/sinaalinejad/Computer_Vision/tree/main/HW3
 importance: 1
-category: work
-related_publications: true
+category: University
+# related_publications: true
 ---
 
 Every project has a beautiful feature showcase page.

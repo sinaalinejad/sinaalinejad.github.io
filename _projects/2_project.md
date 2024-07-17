@@ -1,11 +1,13 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: PacMan
+description: a project related to Artificial Intelligence Course
+redirect: https://github.com/sinaalinejad/AI_excersizes/tree/main/HW5/multiagent
+github: https://github.com/sinaalinejad/AI_excersizes/tree/main/HW5/multiagent
+img: 
 importance: 2
-category: work
-giscus_comments: true
+category: University
+# giscus_comments: true
 ---
 
 Every project has a beautiful feature showcase page.
