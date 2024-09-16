@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publication
-permalink: /edu/
+permalink: /pub/
 # description: A growing collection of my cool projects.
 nav: true
 nav_order: 7
