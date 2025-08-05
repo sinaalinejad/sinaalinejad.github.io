@@ -22,4 +22,4 @@ Hello, and welcome to my personal website! I completed my bachelor's degree in C
 
 Beyond academics, I am an avid football enthusiast. Playing football is not just a hobby for me; it’s a way to unwind and stay active. Whether it's on the field or in a team project, I thrive in collaborative environments and enjoy working with others to achieve common goals.
 
-Looking ahead, I am eager to pursue higher education abroad, where I can further expand my knowledge and skills in AI. My collaborative spirit and passion for learning drive me to seek new opportunities and challenges, and I am excited about the future that lies ahead.
+Looking ahead, I am eager to pursue higher education, where I can further expand my knowledge and skills in AI. My collaborative spirit and passion for learning drive me to seek new opportunities and challenges, and I am excited about the future that lies ahead.
